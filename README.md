@@ -176,6 +176,7 @@ plt.show()
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts:
 
 ![The Highest paid & Most In-Demand Skills for Data Analysts](/Project/images/Highest_Paid_and_Most_In_Demand_Skills.png)
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts.*
 
 #### Insights:
