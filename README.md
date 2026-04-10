@@ -82,6 +82,11 @@ for i, job_title in enumerate(job_titles):
 
 ## 2. How are in-demand skills trending for Data Analysts?
 
+To find how skills are trending for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout the year.
+
+View my notebook with detailed steps here:
+[3_Skills_Trend.ipynb](Project/3_Skills_Trend.ipynb)
+
 ## Visualize Data
 
 ```python
@@ -110,6 +115,11 @@ plt.show()
 - Both Python and tableau show relatively stable demand throughout the year while some fluctuations but remains essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
 
 ## 3. How well do jobs and skills pay for Data Analysts?
+
+To identify the highest-paying roles and skills, I looked at the median salary of jobs. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
+
+View my notebook with detailed steps here:
+[4_Salary_Analysis.ipynb](Project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 
@@ -173,6 +183,11 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 - There's a clear distinction between the skills that are highest paid and those that are most in-demand. Data analysts aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills and widely demanded foundational skills.
 
 ## 4. What is the most optimal skill to learn for Data Analysts?
+
+To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
+
+View my notebook with detailed steps here:
+[5_Optimal_Skills.ipynb](Project/5_Optimal_Skills.ipynb)
 
 #### Visualize Data
 
