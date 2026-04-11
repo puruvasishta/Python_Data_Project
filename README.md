@@ -210,7 +210,7 @@ plt.show()
 #### Results
 
 ![Most Optimal Skills for Data Analysts](/Project/images/Most_Optimal_Skills_for_Data_Analysts_with_Coloring_by_Technology.png)
-*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US*
+*A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts*
 
 #### Insights:
 - The scatter plot shows that most of the `programming` skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
